@@ -1,5 +1,5 @@
-- 👋 Hi, I’m zhiqiang li
-- 👀 I’m interested in machine learning and molecular dynamics
+- 👋 Hi, I’m Zhiqiang
+- 👀 I’m interested in machine learning potential and molecular dynamics
 - 🌱 I’m currently learning at Shandong university
 - 📫 How to reach me, email:lzq2021@mail.sdu.edu.cn
 
