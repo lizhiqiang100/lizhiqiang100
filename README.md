@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhiqiang,
 - 👀 I’m interested in machine learning potential and molecular dynamics,
-- 🌱 I’m currently learning at Shandong University (Qingdao Campus),
+- 🌱 I’m currently as a teacher at Henan Institute of Technology, PhD at Shandong University (Qingdao Campus),
 - 📫 How to reach me, email:lzq2021@mail.sdu.edu.cn.
 
 <!---
